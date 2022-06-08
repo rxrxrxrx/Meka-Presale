@@ -1,0 +1,42 @@
+{
+   "name":"MKM Kugaris Reactor #DESACTIVATED",
+   "symbol":"MEKA",
+   "description":"MKM Kugaris Reactor: The latest version of our new prototype reactor. Our scientists have succeeded in combining the DNA of a Kugaris with our technology. Beware, these reactors are unstable and will be corrupted FOREVER if listed below 4.74 SOL (Proceed with caution)",
+   "seller_fee_basis_points":10000,
+   "image":"https://github.com/rxrxrxrx/Meka-Presale/blob/main/285814949_609615746822610_6720947363382442766_n.png",
+   "external_url":"https://mekamounts.io/",
+   "edition":0,
+   "attributes":[
+      {
+         "trait_type":"Type",
+         "value":"MKM Kugaris Reactor"
+      },
+      {
+         "trait_type":"Status",
+         "value":"Desactivated"
+      }
+   ],
+   "properties":{
+      "files":[
+         {
+            "uri":"https://github.com/rxrxrxrx/Meka-Presale/blob/main/285814949_609615746822610_6720947363382442766_n.png",
+            "type":"image/png"
+         }
+      ],
+      "category":"image",
+      "creators":[
+         {
+            "address":"324PdYH4rTks5xFFAcyqAdD3FZXPzE1EdWvf7JpooxhA",
+            "share":34
+         },
+         {
+            "address":"DHUC6DnFZvRnYPiFUto2RpUeeZAHzAgUUPymQsA5nsJn",
+            "share":33
+         },
+         {
+            "address":"J5ZqR3NeUviZNs3ZDH5bnjzGRq11aAxGerSekq62CLG",
+            "share":33
+         }
+      ]
+   }
+}
