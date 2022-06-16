@@ -1,0 +1,72 @@
+{
+   "name":"MEKAMOUNTS #1110",
+   "symbol":"MEKA",
+   "image":"https://arweave.net/NaKsLP2n83a51sMXDI4tfXJmooYg5N_XJtz2eROXfnM?ext=png",
+   "properties":{
+      "files":[
+         {
+            "uri":"https://arweave.net/NaKsLP2n83a51sMXDI4tfXJmooYg5N_XJtz2eROXfnM?ext=png",
+            "type":"image/png"
+         }
+      ],
+      "category":"image",
+      "creators":[
+         {
+            "address":"J5ZqR3NeUviZNs3ZDH5bnjzGRq11aAxGerSekq62CLG",
+            "share":33
+         },
+         {
+            "address":"DHUC6DnFZvRnYPiFUto2RpUeeZAHzAgUUPymQsA5nsJn",
+            "share":33
+         },
+         {
+            "address":"324PdYH4rTks5xFFAcyqAdD3FZXPzE1EdWvf7JpooxhA",
+            "share":34
+         }
+      ]
+   },
+   "description":"4999 units of the 474th regiment",
+   "seller_fee_basis_points":9800,
+   "attributes":[
+      {
+         "trait_type":"Halo",
+         "value":"Yallow"
+      },
+      {
+         "trait_type":"Background",
+         "value":"Clear Lavender"
+      },
+      {
+         "trait_type":"Cockpit",
+         "value":"Burgundy"
+      },
+      {
+         "trait_type":"Left Hand",
+         "value":"Gamma canon"
+      },
+      {
+         "trait_type":"Right Hand",
+         "value":"Desert Eagle"
+      },
+      {
+         "trait_type":"Shoulders",
+         "value":"Metal Green"
+      },
+      {
+         "trait_type":"Front Screen",
+         "value":"MKM Pink"
+      },
+      {
+         "trait_type":"Back",
+         "value":"None"
+      },
+      {
+         "trait_type":"Body",
+         "value":"Scratch Yellow"
+      }
+   ],
+   "collection":{
+      "name":"MEKAMOUNTS",
+      "family":"Mekamounts Gen2"
+   }
+}
