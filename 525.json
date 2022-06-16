@@ -1,0 +1,72 @@
+{
+   "name":"MEKAMOUNTS #525",
+   "symbol":"MEKA",
+   "image":"https://arweave.net/SrMiVrOUz4_UEV_QnLFe1Vx1CEHiKSDqDX7TCrkQa9c?ext=png",
+   "properties":{
+      "files":[
+         {
+            "uri":"https://arweave.net/SrMiVrOUz4_UEV_QnLFe1Vx1CEHiKSDqDX7TCrkQa9c?ext=png",
+            "type":"image/png"
+         }
+      ],
+      "category":"image",
+      "creators":[
+         {
+            "address":"J5ZqR3NeUviZNs3ZDH5bnjzGRq11aAxGerSekq62CLG",
+            "share":33
+         },
+         {
+            "address":"DHUC6DnFZvRnYPiFUto2RpUeeZAHzAgUUPymQsA5nsJn",
+            "share":33
+         },
+         {
+            "address":"324PdYH4rTks5xFFAcyqAdD3FZXPzE1EdWvf7JpooxhA",
+            "share":34
+         }
+      ]
+   },
+   "description":"4999 units of the 474th regiment",
+   "seller_fee_basis_points":9800,
+   "attributes":[
+      {
+         "trait_type":"Halo",
+         "value":"None"
+      },
+      {
+         "trait_type":"Background",
+         "value":"Clear Red"
+      },
+      {
+         "trait_type":"Cockpit",
+         "value":"Magma"
+      },
+      {
+         "trait_type":"Left Hand",
+         "value":"Rocket Launcher"
+      },
+      {
+         "trait_type":"Right Hand",
+         "value":"Flamethrower"
+      },
+      {
+         "trait_type":"Shoulders",
+         "value":"Metal Green"
+      },
+      {
+         "trait_type":"Front Screen",
+         "value":"Flex"
+      },
+      {
+         "trait_type":"Back",
+         "value":"Crest Blue"
+      },
+      {
+         "trait_type":"Body",
+         "value":"Burgundy"
+      }
+   ],
+   "collection":{
+      "name":"MEKAMOUNTS",
+      "family":"Mekamounts Gen2"
+   }
+}
